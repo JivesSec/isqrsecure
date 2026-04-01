@@ -25,3 +25,4 @@
 
 example.net
 workers.dev
+yandex.ru
