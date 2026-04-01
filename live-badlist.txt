@@ -23,6 +23,13 @@
 # hsbc-secure-update
 # microsoft-mfa-reset
 
+linodeobjects.com
+duckdns.org
+*.shop
+duckdns.com
+ddns.com
+*.vip
+*.netlify.com
 firebaseapp.com
 *.icu
 *.cfd
