@@ -23,6 +23,11 @@
 # hsbc-secure-update
 # microsoft-mfa-reset
 
+firebaseapp.com
+*.icu
+*.cfd
+*.sbs
+*.xxx
 *.top
 *.club
 sites.google.com
