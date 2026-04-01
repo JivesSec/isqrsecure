@@ -23,6 +23,7 @@
 # hsbc-secure-update
 # microsoft-mfa-reset
 
+moshtix.com
 *.click
 000webhostapp.com
 *.lu
