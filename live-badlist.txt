@@ -23,6 +23,8 @@
 # hsbc-secure-update
 # microsoft-mfa-reset
 
+*.click
+000webhostapp.com
 *.lu
 *.live
 linodeobjects.com
