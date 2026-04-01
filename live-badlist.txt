@@ -25,7 +25,15 @@
 
 *.top
 *.club
-rkw-lawfirm.de
+sites.google.com
+telegram.org
+anythingshere.shop
+cside.site
+footballfans.asia
+menclub.lt
+musiclivetrack.website
+stone110.store
+web14.inforkw-lawfirm.de
 robertsiekdesign.com
 rubio.cat
 ruppel-sonnenschutz.de
