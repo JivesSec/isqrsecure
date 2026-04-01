@@ -1,0 +1,26 @@
+# IsQRSecure Live Threat List
+# Maintained by Jake Ives (@JivesSec)
+# Last updated: April 2026
+#
+# Formats supported:
+#   keyword-fragment     Whole-label match (no dots)
+#   evil-site.xyz        Full domain match (exact + subdomains)
+#   *.pages.dev          Wildcard match (anything on that domain)
+#
+# Lines starting with # are comments.
+
+# Active phishing campaigns
+# Add domains here as you encounter them in the wild
+
+# Example full domains
+# malicious-login-page.xyz
+# fake-hsbc-portal.ru
+
+# Example wildcards
+# *.suspicious-hosting.click
+
+# Example keyword fragments
+# hsbc-secure-update
+# microsoft-mfa-reset
+
+example.net
