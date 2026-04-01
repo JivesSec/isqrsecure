@@ -23,7 +23,8 @@
 # hsbc-secure-update
 # microsoft-mfa-reset
 
-*.livs
+*.lu
+*.live
 linodeobjects.com
 duckdns.org
 *.shop
