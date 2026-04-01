@@ -23,6 +23,8 @@
 # hsbc-secure-update
 # microsoft-mfa-reset
 
+*.top
+*.club
 rkw-lawfirm.de
 robertsiekdesign.com
 rubio.cat
